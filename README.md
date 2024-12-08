@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - [Building My PC](https://github.com/tsteele0206/LABURL)
-- [Active Directory Home Lab](https://github.com/tsteele0206/LABURL)
+- [Active Directory Home Lab](https://github.com/tsteele0206/Active-Directory-Home-Lab)
 
 <h2>Certfications</h2>
 
